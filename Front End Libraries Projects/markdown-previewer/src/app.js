@@ -1,7 +1,7 @@
 import React from "react";
 import "./app.css";
 import logo from "./img/square-2673252_640.png";
-import marked from "marked";
+import { marked } from "marked";
 import githubMark from "./img/GitHub-Mark-64px.png";
 
 class App extends React.Component {
